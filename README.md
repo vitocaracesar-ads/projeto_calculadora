@@ -1,17 +1,6 @@
 
 ## 1. Descrição do projeto
 
-Este projeto consiste no desenvolvimento de uma calculadora simples utilizando a linguagem Java. A aplicação realiza operações matemáticas básicas entre dois números inteiros, permitindo ao usuário selecionar a operação desejada por meio de um operador matemático.
-
-O projeto foi desenvolvido como atividade prática para aplicar conceitos de programação, testes de software, refatoração e documentação de código.
-
-## 2. Objetivo da atividade
-
-O objetivo desta atividade é desenvolver e aprimorar uma aplicação de calculadora em Java, aplicando conceitos de revisão estática de código (caixa branca), testes de software, refatoração e documentação utilizando JavaDoc.
-
-Além disso, a atividade busca praticar o controle de versão com Git e o compartilhamento do projeto por meio do GitHub.
-
-## 3. Tecnologias utilizadas
 
 As tecnologias e ferramentas utilizadas no desenvolvimento foram:
 
